@@ -7,7 +7,7 @@
         }
     ],
     "require": {
-        "sede2/excel": "v1.0"
+        "sede2/excel": "v1.1"
     },
     "autoload": {
         "psr-0": {
