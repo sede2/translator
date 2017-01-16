@@ -1,0 +1,10 @@
+{
+    "name": "sede2/translator",
+    "authors": [
+        {
+            "name": "Sede2",
+            "email": "sede2sede@gmail.com"
+        }
+    ],
+    "require": {}
+}
