@@ -6,5 +6,7 @@
             "email": "sede2sede@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "sede2/excel": "v1.0"
+    }
 }
